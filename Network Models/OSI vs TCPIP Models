@@ -1,0 +1,20 @@
+OSI seven Model
+1 - physical (what cables do i use)
+2 - data Link (network card/swithces)
+3 - network (Routers/ logical addresses, ip)
+4 - transport (data disasembeled and assemebled, packets)
+5 - Session (actual connection, TCP, email? defines what connectivite to take action)
+6 - Presentation (outdate but used to convert data that your computer can read)
+7 - Application (smart in the application. API, )
+
+TCP
+1 - Network Interface (all physcial cable/ cards/ )
+2 - Internet (IP addresses/ routers)
+3 - Transport (TCP/UDP the transfer of data)
+4 - Application (looks like the OSI, email, ftp, telnet)
+
+Know the OSI & TCP layers and their numbers
+    - osi layer 6
+        - OSI layer 6: Presentation
+    - TCP layer 2
+        - TCP layer 2: Internet
