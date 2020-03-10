@@ -1,0 +1,41 @@
+OSI:
+    Layer 1 Physcial Layer:
+        Hubs - cables.
+    Layer 2 Data Link: 
+        Network Card - recieve Ethernet Frame
+            Check for Mac Address - and store them (if good network card)
+            IP packet
+    Layer 3 Network:
+        deal with IP addresses - big number one - make sure its for me.
+        Store the Ip address that it came from
+            TCP Segment - ready for my computer
+    Layer 4 Transport:
+        Assembler and dissasembler of data
+        I break data into bit size chunks with Sequencing numbers
+            Port numbers with data
+    Layer 5 Session:
+        Design a server to a client on a remote system
+            many applications that are network aware
+    Layer 6 Presentation:
+        Long time ago
+            translated from example: Extended Binary Code Decimal Interchange Code(EBCDIC) - 8bit char encoding
+            pretty much dissapeared
+    Layer 7 Application:
+        built in smarts - Port numbers and keep return Port number 
+
+TCP/IP
+    Layer 1 Network Interface (link layer): 
+        Network Card - recieve Ethernet Frame
+            Check for Mac Address - and store them (if good network card)
+            IP packet
+    Layer 2 Internet:
+        deal with IP addresses - big number one - make sure its for me.
+        Store the Ip address that it came from
+            TCP Segment - ready for my computer
+    Layer 3 Transport:
+        Assembler and dissasembler of data
+        breaks data into byte size chunks with Sequencing numbers
+            Port numbers with data
+    Layer 4 Application:
+        network aware applications that handle the incoming data
+        built in smarts bring data to the right ports
