@@ -1,0 +1,27 @@
+MAC addresses are limited
+
+Logical Addressing - also know as IP addressing
+
+the idea behind a IP address is not fixed, you have to apply an IP address
+IP address is 
+
+you have a router that assigns IP  
+
+Frames have an IP packet, that has a incoming IP Address ans well as returning IP Address
+default gateway - the connection with the router itself
+
+built into every router is a Routing Table
+it knows where to send data
+
+packets do not travel by themselves, always incapsulated in some type of Frames
+while the frames change from router to reouter the IP packets never change.
+
+routers look at the IP addresses and know how to handle them.
+
+Quick Review: 
+    - An IPV4 Address looks like this:
+        - 31.44.12.123
+    - An IPV6 looks like this:
+        - 2001:0D8B8:FE01::
+    - a Router connects multiple local Networks
+    - the IP Packet within the frame never changes
