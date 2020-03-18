@@ -17,3 +17,8 @@ Network Interface Card (NIC)
         Frame is generated in the Network Card
         network card create a frame and destroy the frames - not sent to the other layers
         once taken from sent to another layer
+
+Quick review:
+    - Devices on a network send and recieve data in discreet chunks called Frames(or packets)
+    - Frames are a maximum of 1500 bytes in size
+    - Frames are created and Destroyed inside the NIC
