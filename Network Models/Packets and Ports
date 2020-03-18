@@ -1,0 +1,32 @@
+port numbers get added
+
+Port numbers are unique to and individual applications that are used all over the internet
+example port 80 is used to define a web page
+
+they get added to the frame aswell, the recieveing Port number and the outgoing port number
+
+the first 1024 ports are known as wll known ports
+
+you can have up to 65,535 ports, but the first 1024 are reserved. I can never used those as return ports.
+
+try to remember those port numbers
+
+Port 80 - HTTP
+Port 20 & 21 - FTP
+
+I want to make sure all my data comes in correctly
+with Transmission Control Protocal (TCP) - is a connection oriented conversation to make sure that data gets to you whole, complete, and in order.
+
+two big pieces of TCP- 
+    - Sequencing number, with broken up 25,000 pieces, it assembles them together
+    - Acknoledgment Number, confirms to the sender that data was recieved
+
+That is why its called TCP/IP
+
+another protocal called User Datagram Protocol (UDP) - 
+    - UDP is cinnectionless -in other words it justs sends data and hopes you are ready for it.
+
+Quick review:
+    - Port numbers help direct packet traffic between the source and the destination
+    - packets have sequence numbers so the network software can reassemble the file correctly. 
+    - TCP is connection-oriented, UDP is conectionless
