@@ -1,0 +1,24 @@
+A hub is a repeater - it duplicates the data it recieves and sends it to all devices
+
+everyone get an example of that frame
+the frame payload does not identify the destination
+how to address this?
+    MAC address (Media Access Control Adddress) - it is the physical Address
+
+ipconfig /all
+    all information on the network cards
+
+40-8D-5C-1C-5A-50 -> 48 bit address each heaxadecimal char represents a value
+    there are 12, each char represents 4 binary chars
+    total 48 bit -> 12 hexa chars * 4 binary chars
+
+(40-8D-5C) first 3 nums represent the Original Equipment Manufacturer (OEM) - those are issued to a specific company
+(1C-5A-50) last 3 are burned into the card by the manufactured it was assigned to known as the Unique ID
+
+
+CRC checks to see if data is valid
+
+Quick review:
+    A MAC address is a Unique 48-bit identifier for a NIC
+    Frames have a destination and source MAC address
+    NIC's use MAC Addresses to decide wheter or not to process a frame
