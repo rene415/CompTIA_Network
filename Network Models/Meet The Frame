@@ -1,0 +1,19 @@
+Network Interface Card (NIC)
+    No two NIC ever share the Same MAC address - Each company needs to contact the Institute of Electrical and Electronics Engineer (IEEE). they burn those MAC addresses into the NICs
+    Tradionatily connected to computer
+    connected to an interface that connects to a LAN
+
+    MAC addresses are always written in Hexadecimal! <-- intersting fact!
+
+    How do they send data?
+        Binary Data - Copper, Radio Signal, fiber
+        they are sent in Frames - packets
+        visually discrete chunks of 1's and 0's
+        Packetized Data - cornering of Networking
+    
+    Each frame can be up to 1500 bytes 8 bits to the bit.
+        thats around 10,000 1's & 0's for one single frame
+        frames are long
+        Frame is generated in the Network Card
+        network card create a frame and destroy the frames - not sent to the other layers
+        once taken from sent to another layer
