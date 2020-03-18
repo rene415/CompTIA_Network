@@ -1,0 +1,10 @@
+Hub sends data to all computers
+destination MAC Address is FF-FF-FF-FF-FF-FF it says this is a broadcast address, every computer that is looking for a packet will say, im looking for this chunck of data send me your mac address
+
+Broadcast Domain - 
+    Any time you have a group of computers that can hear each other's broadcast you are in a broadcast domain.
+
+Quick Review
+    - Unicast Transmission is addressed to a single device on a network
+    - a broadcast transmission is sent to every device in a broadcast domain.
+    - a broadcast addess looks like this: FF-FF-FF-FF-FF-FF
