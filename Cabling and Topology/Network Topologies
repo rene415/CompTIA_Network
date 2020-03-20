@@ -1,0 +1,46 @@
+Chapter 2 focuses on 3 main things:
+    - How cables and other pieces of hardware connect to one another
+    - the most common standerized cable types used in networking
+    - learn about IEEE commities that create network technology standards
+
+Topology is the organization of how the 1's and 0's in the form of frame move between hosts.
+
+Bus Topology
+    unique single chunk of cable
+    if you want to connect "you get on the bus"
+    "Drop cable" comes from bus cable
+    its obsolete already (not quite yet)
+
+Ring Topology
+created by IBM with a technology called Token Ring
+    Data traffic moved in a circle from one pc to the next
+    it had no end, it would just loop back
+    
+Star Topology
+    used a central box to connect all computers
+    fault tolerance - if once cable broke it wouldn't affect all the other computers
+    Too complicated and couldn't be adapted by others
+
+Hybrid Topology
+    Star Bus Topology - a mixture of running a cable through the ceiling and connect to a centralized hub/Switch
+    Star Bus topology is the Number one topolgy used today!
+
+
+Careful with Physcial Topology vs logical Topology
+    Logical topology is the electronic circuit, how the stuff is going to work.
+    Physical topology is how its going to physically going to look like if we had them all streched out
+
+Wireless networks
+Mesh Topology
+    Fully meshed topology - all conections connect to each other
+    Partially meshed topology - one not connected
+
+Goals to achieve in this chapter:
+    Explain The different types of network Topologies
+    Describe the different types of network cabling and connectors
+    Describe IEEE network standards
+
+Quick review:
+    Starbus Topology is considered a hybrid topology
+    when each host is interconnected this is considered a fully meshed topology
+    Logical Topology is the electronic cicuit flow of frames.
