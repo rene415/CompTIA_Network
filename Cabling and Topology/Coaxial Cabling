@@ -1,0 +1,19 @@
+Coaxial Cable
+    dates back to WW2 Copper conductor, cabling, surrounded by insulating material 
+    COmmon AXis - COAX 
+Different types if Coax types
+    RG ratings define the tickness of cable, thickness of conductors, and OHM's
+    100 of RG's ratings
+
+    RG58 - 50 OHM's - still discussed
+        with BNC connection
+            BNC - British Naval Connector or Bayonet Neill-Concelman
+    RG-59 - 75 OHM's 
+        Ftype Connector
+    RG6 - 75OHM's
+        thicker than rg59
+
+Quick Review:
+    RG Specifies the thickness of the conductors, insulation and shielding
+    Coaxical cable has two conductors once center point and a tubular conducting layer
+    RG-59 has a 75OHM rating and uses a threaded F-type connector
