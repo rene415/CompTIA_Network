@@ -1,0 +1,35 @@
+Fiber optic cable 
+    Core that carries the light
+    the cladding reflects the light back and forth
+    fiber optic jacket that protects it
+
+2 types
+    
+    2 connectors - multiple mode propagate light, LED
+    single mode - laser thinner fiber optic
+
+    color is orange is mostly double
+    yellow is single
+
+    Duplex cables
+    all types of connectors - on the network exam
+
+    ST eariest types, BNC like, twist in
+    SC square connectors
+    FC connectors screws in coax
+    they are all old
+
+    LC connectors built into one, 
+    NTRJ- there are two connectors, real popular connectors
+
+    PC - Physical contact, slightly rouded edges
+    UPC - ultra Physical contact, more rounded edges, creates less light loss
+    APC - angled Physical contact, and angled, 
+
+    for best preformance you want PC or UPC
+
+
+Quick Review:
+    Multimode cable carry LED signal
+    Single mode cable carries laser signals
+    For the test be able to recognize the diff types of fiber connectors
