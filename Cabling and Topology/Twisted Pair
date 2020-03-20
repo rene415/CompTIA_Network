@@ -1,0 +1,25 @@
+one type of cableing dominet
+Twisted pair
+    always in pairs
+    twisting allows the signal to propagate further down a piece of copper wire
+    it was invented in the late 60's early 70's for telephone system
+    for telephone lines but still used to date
+
+    new twisted pair has 4 pairs of cables
+    unshielded twisted pair - UTP no metal covering it or aluminum
+    careful, dont run next to a motor or a magnet. It will degrade the signal
+    Dirt Cheap! :D 
+
+    ther is even some 25 pair UTP! crazy!!
+
+    When its used for networking its usally 4 pairs
+    we use a RJ-45 connector
+    EIA/TIA 568A or 568B - standards
+
+Shielded Twisted Pair (STP)
+    shielded all the way until the other end, it protects is from magnetic fields outside the cableing
+
+Quick Review:
+    Modern twisted pair has 4 or more pairs of cable
+    UTP cable is unshielded and subject to signal interference from enviormental factors
+    568A and 568 B are wiring standards for how the wires are connected to a connector
