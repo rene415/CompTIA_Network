@@ -1,0 +1,18 @@
+Ethernet Frame
+    byte and octet, same thing
+    - Preamble, 7 byte series of 1's and 0's followed by 1 byte start frame delimiter. It essentially signals the NIC to let it know that there is a frame coming in
+    - Destination MAC address 48 bit address,
+    - Source MAC Addres, the return address
+    - Data type (ether type) 2 bytes long, IPv4 data or ipv6
+    - Data, chunck of data.
+        - Minumum size is 64 Bytes, if its not 64 bytes it will add a PAD
+        - max size is 1522 bytes
+        - PAD, adds a Minumum data needed for the 64 bytes it needs.
+        - Jumbo Frame - can hold up to 9,000 bytes, but only for highspeed internet networks
+        - Maximum transmission Unit (MTU)
+    - Frame check sequence 32 bit sequence that checks that all data was recieved with foncy math! :Data
+
+Quick review:
+    - Ethernet Frames consit of a preamble, destination MAC, Source MAC, data type, Data, Pad(if necesseray), and FCS
+    - A jumbo frame can carry 9k bytes
+    - FCS is used for error detection
