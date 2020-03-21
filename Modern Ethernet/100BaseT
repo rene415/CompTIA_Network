@@ -1,0 +1,37 @@
+Goals to achieve:
+    - Describe the varies of 100-megabit Ethernet
+    - Discuss copper-and fiber-based Gigabit Ethernet
+    - Discover and describe Ethernet varieties beyond Gigabit
+
+Why x10 connections? 10mbps -> 100mbps -> 1Gbps -> 10Gbps
+The amount of speed that is worth it to invest. by being 10 times faster
+always times 10 with 3 execptions.
+
+half duplex vs full duplex
+    - radio conversation, that stops the audio coming in,
+    - full duplex is that you can listed and talk at the same times
+
+oldest versiom
+    100BaseT4
+        100mbps
+        1024 nodes per hub
+        100m
+        Cat3
+first ethernet to use all 4 pairs
+
+    100BaseTX
+        100mbps
+        1024 nodes per hub
+        100m
+        Cat5e
+        Two pairs
+100BaseFX
+    100mbps
+    1024nodes per hub
+    Multimode optic fiber
+    2KM! WOW!
+
+Quick Review:
+    - Full-duplex mode allows bothsides of a conversation to occur at the same times
+    - 100BaseT(aka 100BaseTX) runs at 100 mbps up to 100 meters
+    - 100BaseFX fiber solution runs at 100 mbps up to 2k 
