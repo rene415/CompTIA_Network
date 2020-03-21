@@ -1,0 +1,13 @@
+Connecting Switches
+Staight through cables have identical ends -> 568A to 568A
+crossover cables have different ends -> 568A to 568B
+you use a crossover to connect one switch to another
+    with an uplink port
+    or downlink port
+
+Most devices have Auto-sensing ports
+
+Quick Review:
+    - Staight through cables have identical ends -> 568A to 568A
+    - crossover cables have different ends -> 568A to 568B
+    - Connect switches with crossover cables
