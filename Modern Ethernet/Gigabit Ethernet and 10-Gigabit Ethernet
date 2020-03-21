@@ -41,4 +41,5 @@ Gigabit Ethernet
     10GBaseSW---\
     10GbaseEW----> all the same as above but run for old SONET networks
     10GbaseLW---/
-
+    
+SONET - Synchronous Optical Network, come back on chapter 13. Just think of them as a data transmission standard that different from the LAN Ethernet standard.
