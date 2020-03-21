@@ -1,0 +1,44 @@
+Gigabit Ethernet
+    1000BaseSomething
+
+    1000BaseCX
+        1gbps
+        Twinax Cable
+        25meters
+    Fiber Optic
+    1000BaseSX
+        1gbps
+        multimode
+        500meters
+    1000BaseLX
+        1gbps
+        multimode
+        2km
+    UTP
+    1000BaseT
+    CAT6
+    100 meters
+
+10Gigabit Ethernet
+    very strange standards
+    SONET
+    10GBaseT
+        10Gbps
+        CAT6(55meters) or CAT6a(runs 100meters)
+    10GBaseSR
+        10Gbps
+        multimode
+        25meters up to 300meters
+    10GbaseLR
+        singlemode 
+        1310nm wavelength single mode Fiber
+        10km
+    10GbaseER
+        singlemode
+        1550nm wavelength single mode Fiber
+        40km
+
+    10GBaseSW---\
+    10GbaseEW----> all the same as above but run for old SONET networks
+    10GbaseLW---/
+
