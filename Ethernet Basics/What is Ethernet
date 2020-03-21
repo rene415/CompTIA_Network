@@ -1,0 +1,22 @@
+Goals of this chapter:
+    - Define and describe Ethernet
+    - Explain early Ethernet implementations
+    - Describe ways to enhance and extend ethernet networks
+
+What is ethernet
+    IEEE 802.3 -  Ethernet is a book
+    Ethernet never really changes - in the frame
+        ethernet lives in mac Addresses
+        frames dont change.
+    10Base5 - 
+        10 - is the speed data transfers
+        Base/broad bandwidth - baseband - is cable only carries one type of signal. Broadband carries multiple signals or channels (like tv)
+        5 meters, or length the signals travels with out losing data. 
+
+    today is 10BaseT is the household used
+        10 mbps- Base over baseband- T twisted pair
+
+Quick Review:
+    - Ethernet is defined by the IEEE 802.3 standard
+    - The IEEE has defined many versions of Ethernet
+    - For the test be able to recognize the ethernet naming syntax
