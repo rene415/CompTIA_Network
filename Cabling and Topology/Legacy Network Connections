@@ -1,0 +1,24 @@
+Old technologies, they are outdated!!
+
+2 types of network connectors
+
+Serial Ports - oldest IO connectors
+    very slow speed
+    networks are so old that dont need it, called RS-232
+    uses things like request to send, im ready to recieve datam sending data
+    DB9- DB25
+    D shapped port and it has 9 pins, DB 9
+    Db 25 much older
+
+    Parallel Ports - still DB connector for printers but LAntastic Primitive connections for BUS connections
+    max speeds of 2Mbps 25 pin female connectors
+
+IEEE they organize the standards 802 committee network standards 802.3 ethernet
+
+rollover/yost cable - on high end switches, no matter what happens its gives me a very low end connections. Factory reset that allows easy access.
+
+
+Quick Review:
+    DB-9 and DB-25 are legacy serial network connections
+    Parallel ports are typically used with printers
+    A Yost(or rollover) cable is a serial cable used to configure a router of a switch
