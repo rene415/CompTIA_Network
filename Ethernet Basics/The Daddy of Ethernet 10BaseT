@@ -1,0 +1,20 @@
+Priblems with 10base5/2 if a cable broke all network goes down
+
+IBM created Token Ring
+    - they didnt use a Bus
+    - they used a box that plugs is
+    - Multistation access unit (MSAU)
+    - if any of the cables break it will still work
+    - proprietary stuff and expensive
+
+10BaseT was born
+    they moved the bus hub to a small box
+    it used hubs
+    cornerstone topology of how all connections started
+    10mbps 100 meters no more than 1024 hosts
+    with cat 3
+
+Quick Review:
+    10BaseT runs at 10mbps over CAT 3 or better UTP
+    10BaseT can have up to 1024 nodes per switch
+    10BaseT cables runs are a max of 100 meters between the switch and node
