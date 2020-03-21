@@ -1,0 +1,16 @@
+early Ethernet didnt work like it does now
+
+Segmented Ethernet
+    - CSMA/CD - carrier sense multiple access collision detection
+        Carrier sense, listens if there is a signal
+        Terminating resistors to avoid signal return from the end
+        Multiple access, all get to interacti with each other
+        Collison detection
+
+    10Base2
+        - can hold up to 30 devices
+
+Quick review:
+    - CSMA/CD - carrier sense multiple access collision detection
+    - 10Base5 and 10Base2 require terminating resistors at both ends of a segment(cable)
+    - When connecting to a 10Base2 always use a "T" connector
