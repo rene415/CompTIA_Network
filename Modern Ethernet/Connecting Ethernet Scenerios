@@ -1,0 +1,29 @@
+Loops issue
+    bridging loop, when you plug in a switch that is already connected to a switch
+    infinite loop of data, and breaks the LAN
+
+STP ready switches do this automatically and it wont let it loop
+    this is the way you avoid Loops
+
+Layer 2 attacks, this is a physical connection
+Flood gaurd to prevent this, with smart switches
+    it detects mac address flooding
+
+Speed mismatch
+    no link light
+    speed lights show up at different speeds and junk the slow device
+
+Dedicated Highspeed Ports
+    if a switch has a gigabit port use that to another switch with 1gb port
+
+Uplink and crossover
+    use uplink port if it exist, otherwise use a crossover to connect two switches together
+
+Duplex mismatch
+    if you plug into another computer directly it will go for full duplex
+    if you want to do that you simple half duplex it
+
+Quick Review:
+    - Proper Switch config will avoid bridging Loops
+    - Match switch speeds to network to avoid a slowdown due to speed mismatch
+    - Most current switches autodetect, eliminating crossover and uplink cable requirements
