@@ -1,0 +1,38 @@
+Terminated cable is aleady punched/crimp
+    crimper tool
+
+Terminating a cable
+    _____________
+    |       Brown
+    | Brown/White
+----|      Orange
+TIA |  Blue/White
+568A|        Blue
+----|Orange/White
+    |       Green
+    | Green White
+    --------------
+    _____________
+    |       Brown
+    | Brown/White
+----|       Green
+TIA |  Blue/White
+568B|        Blue
+----| Green/White
+    |      Orange
+    |Orange/White
+    --------------
+
+
+Crossover cable
+    - 2 of the little wires transmit and recieve
+    - we switch them
+    - its easy to make a cross over
+
+8p8c connector is the offical name
+    but who ever calls it that don't have any friends! XD
+
+Quick review:
+    - An RJ-45 (aka 8P8C) connector is used to connect most network cards
+    - Watch the position of the wire when crimping to follow 568A or 568B standards
+    - Staigh-through cables are the most commonly used cable in the networks
