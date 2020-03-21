@@ -1,0 +1,44 @@
+ethernet connection requires some hubs
+hubs are retired
+
+Hub vs Switches
+    switches are everywhere
+    but not hubs
+hub
+    cant really tell the difference of hub and a switch
+
+    Hubs is a multi port repeater
+    computer sends frame and it repeats the signal to all of the plugged in computers
+
+    downside to hub, if its 10baseT hub -max speed is 10 mbps
+    CSMA/CD 
+
+    with hubs it can only handle one conversation at the time
+    if they both send a signal at the same time its called a collision.
+    it throws an electronic dice and it sends you go first if the number is bigger
+
+    ethernet collisions there is a collision
+
+    CSMA - everyone can access the same bus
+
+    CD if all connected together you can hear the collision
+
+A switch looks at MAC address
+    it looks at the MAC address and creates a mac table,
+    we have a huge advantage
+    it redirects frames based on the MAC address, it doesnt make a copy to all
+    Huge advantage, its a point to point connection
+    they all run at 10mbps
+
+In a broadcast FF:FF:FF:FF:FF
+    it makes multiple copies and sends it to all devices
+    Collisions don't happen often
+    any member that can hear a broadcast they are connected to the same network
+
+Hubs can be convienet as you can listen to all data coming in
+    Spying! :D
+
+Quick Review:
+    - Switches forward frames based on mac addreses
+    - Hubs use CSMa/CD to avoid collisions
+    - Switches create and use MAC address table to map ports and host devices
