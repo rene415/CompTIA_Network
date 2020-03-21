@@ -1,0 +1,13 @@
+Fiber doesnt specify what module port to use
+    Gigabit Interface Converter (GBIC)
+        Meant for ST and SC conectors
+    Small form-factor plugable (SPF)
+        there is also SPF+, its more common
+    Quad small form factor Plugable (QSPF)
+        40Gb Ethernet
+    Bidi trancsiever that take one single connection and splits in colors
+
+Quick Review:
+    - Fiber-optic cable supports multiple connection types from various vendor MSA'single
+    - SFP and SFP+ are small form-factor Tansceivers
+    - QSFP is designed for 40Gb Ethernet
