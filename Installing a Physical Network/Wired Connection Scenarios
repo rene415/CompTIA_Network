@@ -1,0 +1,19 @@
+COMPTIA gives questions that are scenerios
+not really scenerios
+
+slow or poor communication
+    Attenuation -singals degrades at from distance, cable distances, slow type of problem, you allow, poor observation
+    Jitter - certain packets get drop. VoIP and Video Streaming, you can go back and fix that. Jitter is wild to gues where its coming from, try to addess the increase the troughput, Buffering.... delay the connection
+    Incorrect cable - Best cable to use, newest cables. Patch cables and it fails cause its the wrong cable. Its choking the connections, cable mismatch. Good inventory, make sure you keep good connections
+    No connections - Bad ports, very frustating, switch shorted and you just loopback, if one port goes bad, then most other ports follow aswell
+    TX/RX reverse - you using a crossover awhen you need to be using a straight trough, or a striagh through when you need to use a cross over, or worse you accedentatly punched a cross over! :(
+        Good documentation, clearly label it.
+        Uplink port, make sure you push button to revert back
+        Bent pins - Dont perturb the runs, no matter how much you dont want to say that, it might. some say bend it back. others say new switch.test another device.
+        Open/Short - used a bad cable, it shows after you punch it. two cables connected its called a short. replace the cable, make sure the connections is up and running
+or no communication at all
+
+Quick Review:
+    - For jitters in VoIP and video streaming, consider buffering or increase speed
+    - Make sure the patch cable specification is up-to-date with the network speed
+    - If switch lights are not blinking try differnt ports or check if its an uplink port
