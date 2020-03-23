@@ -1,0 +1,12 @@
+Verify for link lights
+Check the network setting OS
+
+Loopback are not trusted anymore
+
+Check the patch cable
+
+Quick Review:
+    - Loopback plugs atest the NIC's ability to send and recieve
+    - Loopback plugs are effective but (Network+ thinks they are)
+    - Patch cables and wall outlests are the most common part of structured cabling to fail
+    
