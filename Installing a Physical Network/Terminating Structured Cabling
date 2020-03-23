@@ -1,0 +1,12 @@
+only from computer to switch or walloutlet you use RJ45
+
+for all other you use 110 punch down
+you gotta make sure that the patch panel and cable matches all the same
+
+110 punch down tool
+
+Quick Review:
+    - Rj-45 crimps are used only on patch cables
+    - Horizontal runs are terminated with 110 punchdowns
+    - Patch panels and RJ-45 connectors also have CAT ratings
+    
