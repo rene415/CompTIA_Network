@@ -1,0 +1,18 @@
+Wiremap
+    all wires are punched into the cable
+    
+Continuity 
+    shows all cables connected
+Distance
+    Time domain Reflectometer(TDR)
+
+Horizontal runs cannot be more than 90meters
+
+OTDR optical domain reflectometer - works the same
+
+crosstalk mesured in db and tests the connections to make sure they are running at the speed that needs to run
+
+Quick review:
+    - Understand how to read and interpret the wiremap feature of a cable tester
+    - Continity testing will show if the cable has any breaks
+    - A time domain reflectometer (TDR) will show the length of the cable and help pinpoint mid-cable breaks
