@@ -1,0 +1,28 @@
+Organization for cabling
+    Structured cabling
+
+3 big componets
+    Telecommincation closet/equipment room
+    Horizontal run
+    Work area
+
+Patch panel
+    one end of the horizontal run
+
+    Horizontalrun you dont mess with that cable
+
+Patch cable
+    it uses stranded chord
+    they connect from patch panel to the switch
+
+number of standards structuring cables
+IEA/TIA standards
+    - TIA standards
+how to wire
+    TIA 568A and TIA568B
+
+Quick review:
+    - Structured cabling defines how we install cabling
+    - TIA standards specify wiring standards for structured cabling
+    - Patch panels terminate one end of horizantal runs
+    - patch cables connect switches to patch panels and computers to wall outlets
