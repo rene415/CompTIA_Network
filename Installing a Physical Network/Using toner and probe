@@ -1,0 +1,6 @@
+Tone Generator and and a tone probe
+
+Quick review:
+    - tone generators and tone probes are used to locate cables and connections
+    - Tone generators create the signal for the probe
+    - Tone probes translate the signal into an audible tone
