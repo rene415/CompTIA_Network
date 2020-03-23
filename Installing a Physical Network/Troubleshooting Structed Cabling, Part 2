@@ -1,0 +1,15 @@
+Issues that tend to affect users
+
+Voltage Monitor 
+UPS uninturepted power supply
+
+Interference
+Modal distorsition
+    only happend to multimode connections
+    Laser connections do not suffer from this
+
+Quick Review:
+    - Voltage monitors track and record problems with power
+    - Enviormental/temperature monitors track and record problems with heat and humidity
+    - tdr's are great tools to check for breaks on horizontal runs
+
