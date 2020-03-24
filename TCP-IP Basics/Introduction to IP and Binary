@@ -1,0 +1,29 @@
+ Chapter Goals:
+    - Describe how TCP/IP protoco suite works
+    - Explain CIDR and subnetting
+    - Describe the functions of static and dynamic IP addresses
+
+Internet and Transport Layers!
+Protocol suite
+    Novell - NetBIOS/NetBEUI
+    Apple - AppleTalk
+    UNIX - TCP/IP
+
+Internet Layer Protocol (IP)
+    works at the internet layer taking data chunks from the transport layer, adding addressing and creating the final IP packet.
+    Then IP hands over the IP packet to layer 2.
+    - IPV4
+    - IPV6
+    - ICMP (internet control message protocol)
+
+IP has 14 different fields
+    there are 2^8(256 combinatons)
+    0-255 
+
+128 - 64 - 32 - 16 - 8 - 4 - 2 - 1
+
+
+Quick Review:
+    - Each computer on a TCP/IP network must have a unique IP address
+    - IPv4 addresses are written as four octets, such as 192.168.4.12
+    - Each octet represents a binary string; 192 for example is 11000000
