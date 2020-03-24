@@ -1,0 +1,23 @@
+Private IP addresses
+internal sharing, not sharing online
+
+any IP that starts at 10.x.x.x or 172.x.x.x.
+192.168.x.x Private network
+
+you can use the internet but people can't get to you
+an NAT saves you from the scary internet
+
+Loopback address 
+    - talk to my self
+    ping 127.0.0.1 IPv4
+        self reference
+    ping ::1 IPv6
+        self reference
+
+APIPA - DHCP server goes down, we give you a local Ip address
+169.254.x.x
+
+Quick Review:
+    - any IP that starts at 10.x.x.x or 172.x.x.x. 192.168.x.x Private network
+    - ping 127.0.0.1 IPv4, ping ::1 IPv6
+    - APIPA address (169.254.x.x. indicates tge DHCP server is down)
