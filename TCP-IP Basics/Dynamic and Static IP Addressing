@@ -1,0 +1,14 @@
+DHCP Dynamic Static Hosting Protocol
+BOOTP Bootstrap Protocol
+
+DHCP discover (broadcast), its looking for an IP address
+DHCP offer (sending back confirm), 
+DHCP request (accept request for that DHCP)
+DHCP acknowledgement(agree to the DHCP sent)
+
+DHCP server runs in your own broadcast domain
+
+Quick review: 
+    - Each broadcast domain must have only one DHCP server
+    - Every modern OS comes with DHCP enabled by default
+    - DHCP Relay enables a single DHCP server to service more than one broadcast domain
