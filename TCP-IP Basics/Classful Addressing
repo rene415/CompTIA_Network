@@ -1,0 +1,25 @@
+IANA internet addined numbers authority
+all of IP address that needs them!
+Regional Internet Registry
+    - AfriNIC - African Network Information Center
+    - APNIC - Asia-Pacific Network Information Center
+    - ARIN - American Registry for Internet Numbers
+    - LACNIC - Latin America and Caribbean Network Information Centre
+    - RIPE NCC - Reseaux IP Europeens Network Coordination Centre
+
+Class licenses, based on your needs
+    - Class A 0-126 /8
+    - Class B 128-191 /16
+    - Class C 192-223 /24
+
+IP can not end with 0 or 255
+Subnetting
+    - allowed to finishe with 0 and 255
+
+120.124.12.1 that last number if one is usually the default gateway
+12.124.12.255 is a broadcast address thefore it can not be used
+
+Quick Review:
+    - Classful Subnetting was the first effort to devide network ID's
+    - Class A, B, and C licenses
+    - Memorize the first octet to know your class licenses
