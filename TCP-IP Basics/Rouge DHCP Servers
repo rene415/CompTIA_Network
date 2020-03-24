@@ -1,0 +1,16 @@
+Common DHCP server problems
+    APIPA Automatic Private IP Addressing
+    Fallback for no DHCP connections
+
+if all computers on network lose
+
+169.254.0.0 APIPA Address
+all network work, local, but no internet connections
+
+Rogue DHCP server
+    - multiple servers sending out info
+
+Quick Review:
+    - If you get an APIPA address check to see if you are connected to a DHCP server
+    - If you are connected to a DHCP server and still get an APIPA address make sure the DHCP serve is working
+    - If you get an IP address other than your correct network ID, you may have a rogue DHCP server
