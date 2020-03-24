@@ -1,0 +1,14 @@
+Network ID, identical to all devices
+    no computer can have a zero, network id reserved
+WHACK "/" - number of ones in a subnet
+
+the subnet mask is only used by the computer - it is never sent out
+The default gateway will figure out where to forward the message
+
+we are not changing the IP packet
+    - it will send it the default gateway
+
+Quick Review:
+    - Each host needs a subnetmask
+    - the host uses the subnet mast to know if the destination is on the LAN or remote
+    - Each host knows the default gateway so that it can forward traffic to remote networks
