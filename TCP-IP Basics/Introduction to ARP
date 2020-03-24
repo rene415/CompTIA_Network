@@ -1,0 +1,10 @@
+ARP!
+Address Resolution Protocol (ARP)
+    - Requests a MAC address with a broadcast signal
+arp -a
+
+Quick Review:
+    - ARP Resolves IP addresses
+    - ARP is what a computer uses when it knows the IP address but needs the MAC address
+    - Type arp -a to see the ARP cache
+    - ARP requests are broadcast over a network
