@@ -1,0 +1,9 @@
+Classless inter-domain routing (CIDR) mid 90's
+
+The bigger the Whack number the less hosts you can have
+
+
+Quick Review:
+    - CIDR (Classless inter-domain routing)
+    - Subnet masks have all 1's on the left and all 0's on the right
+    - the more subnets you have the less hosts are avalible
