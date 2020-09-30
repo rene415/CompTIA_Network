@@ -1,7 +1,12 @@
 Classless inter-domain routing (CIDR) mid 90's
 
-The bigger the Whack number the less hosts you can have
+we dont do much subsetting, but isp does most of it. 
 
+ 
+
+The bigger the Whack number the less hosts you can have
+/24 - has 256 hosts
+/31 - has 0 hosts
 
 Quick Review:
     - CIDR (Classless inter-domain routing)

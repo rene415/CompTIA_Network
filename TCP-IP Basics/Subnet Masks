@@ -10,5 +10,5 @@ we are not changing the IP packet
 
 Quick Review:
     - Each host needs a subnetmask
-    - the host uses the subnet mast to know if the destination is on the LAN or remote
+    - the host uses the subnet mask to know if the destination is on the LAN or remote
     - Each host knows the default gateway so that it can forward traffic to remote networks
